@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
+//작성자 : 배수현
 //DropItemSpawner.cs :  생산 풀을 생성하여 드랍 아이템을 보관하고, 스폰하고, 반납시킨다.
 //사용 오브젝트 : 몬스터
 public class DropItemSpawner : Spawner<Item>
